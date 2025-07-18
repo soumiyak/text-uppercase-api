@@ -1,0 +1,197 @@
+﻿Diagnose log at 2025-07-18T07:09:21Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22631)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\soumi
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=SOUMI
+GIT_TRACE2_PARENT_SID=80543351-9d4e-4520-9c40-542141d43a84
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\soumi\OneDrive - KONGU ENGINEERING AND SOFTWARE SERVICES
+ChocolateyLastPathUpdate=133942743219446773
+SESSIONNAME=Console
+TMP=C:\Users\soumi\AppData\Local\Temp
+PROCESSOR_REVISION=9a04
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+USERNAME=soumi
+GIT_ASKPASS=c:\Users\soumi\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\soumi\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\soumi\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+ProgramW6432=C:\Program Files
+USERDOMAIN=SOUMI
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\soumi\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11;C:\Users\soumi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.12\Python 3.12 (64-bit).lnk;C:\Users\soumi\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\soumi\AppData\Local\Programs\Python\Launcher\;C:\Users\soumi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\soumi\AppData\Local\Programs\Python\Python312\;C:\Users\soumi\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;;C:\Users\soumi\AppData\Local\GitHubDesktop\bin;C:\Users\soumi\AppData\Roaming\npm
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+TMPDIR=C:\Users\soumi\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+APPDATA=C:\Users\soumi\AppData\Roaming
+TERM_PROGRAM_VERSION=1.83.1
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\soumi\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=D:\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=12
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-ffc54b22fa-sock
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvm4adtWzikGCwx6NmzuvRQQAAAACAAAAAAAQZgAAAAEAACAAAAB2gp5WcuRmPxGvxT/YnQCn+E3X+9cmxjwRL4FYseKgwQAAAAAOgAAAAAIAACAAAACOVtOa4MDOuxkRCkbn8QeEzVyyViJAuZPZ6Ug5tlqoqmAAAABhX0jsGEYDn18CSwWoatS9HqvyK6mLw3Dxb3HU4LohD6+HfNV6a5WCHrKCDyDYmVGd4k41MURKE8AoDTiZ2qHc5F2zhVnLlX58TRjj43xtdJTvesURnWpQ4Rp39hXQdl9AAAAAdt/HXO/dhanmW1l+Np/g/0ctwgi1BkWPdkJrYRaEbK+z75rcTR39vnSgaCMl6rg0dkJmJfMyxOVQZwxAsqergA==
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+VSCODE_GIT_ASKPASS_NODE=C:\Users\soumi\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SystemRoot=C:\WINDOWS
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+HOME=C:\Users\soumi
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\SOUMI
+USERPROFILE=C:\Users\soumi
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=SOUMI
+IntelliJ IDEA Community Edition=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\soumi\OneDrive - KONGU ENGINEERING AND SOFTWARE SERVICES
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_29208_PAJDGIMMAWVHQFPH
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+EFC_17828=1
+SystemDrive=C:
+windir=C:\WINDOWS
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\soumi\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\soumi\AppData\Local\Temp\558d455a9377bc81f303d794'... OK
+Reading from temporary file 'C:\Users\soumi\AppData\Local\Temp\558d455a9377bc81f303d794'... OK
+Deleting temporary file 'C:\Users\soumi\AppData\Local\Temp\558d455a9377bc81f303d794'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\soumi
+UserDataDirectoryPath: C:\Users\soumi\.gcm
+GetCurrentDirectory(): D:\Desktop\task
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52225/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.50.1.windows.1'
+Locating current repository...Git repository at 'D:/Desktop/task/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/soumi/.gitconfig	user.name=Soumiya
+file:C:/Users/soumi/.gitconfig	user.email=soumiyak811@gmail.com
+file:C:/Users/soumi/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/soumi/.gitconfig	filter.lfs.required=true
+file:C:/Users/soumi/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/soumi/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/soumiyak/text-uppercase-api.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\soumi\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\soumi\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
